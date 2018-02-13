@@ -1,5 +1,7 @@
 # personnalisation-jeedom
 
+[![Join the chat at https://gitter.im/Jeedom-Plugins-Extra/personnalisation-jeedom](https://badges.gitter.im/Jeedom-Plugins-Extra/personnalisation-jeedom.svg)](https://gitter.im/Jeedom-Plugins-Extra/personnalisation-jeedom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Ceci n'est pas un plugin mais rentre parfaitement dans l'idée de rendre meilleur Jeedom via sa personnalisation apportée par la communautée.
 
 L'idée de ce Repo est donc de centraliser :
