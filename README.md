@@ -1,4 +1,6 @@
-# personnalisation-jeedom
+# custom-jeedom
+
+[![Join the chat at https://gitter.im/Jeedom-Plugins-Extra/custom-jeedom](https://badges.gitter.im/Jeedom-Plugins-Extra/custom-jeedom.svg)](https://gitter.im/Jeedom-Plugins-Extra/custom-jeedom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Ceci n'est pas un plugin mais rentre parfaitement dans l'idée de rendre meilleur Jeedom via sa personnalisation apportée par la communautée.
 
@@ -10,3 +12,4 @@ ex : le fameau thème de $FB33
 
 - des personnalisation globale de jeedom (Personnalisation avancée CSS et JS)
 ex : https://www.highcharts.com/demo/line-time-series/dark-unica
+ 
